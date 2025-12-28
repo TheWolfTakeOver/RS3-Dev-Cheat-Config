@@ -64,12 +64,19 @@ The modified .umd file must be placed in the game’s system folder.
 Typical layout:
 
 <game root>/
+
  ├─ system/
+
  │   ├─ xboxdynamic.umd   ← replace this file
+ 
  │   ├─ xboxufiles.umd
+ 
  │   └─ other system files
+ 
  ├─ maps/
+ 
  ├─ sounds/
+ 
  └─ ...
 
 
